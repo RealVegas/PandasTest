@@ -1,0 +1,101 @@
+Rank,Track,Artist1,Artist2,Album,Release,Popularity,Duration,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+1,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,Kacey Musgraves,Zach Bryan,2023-08-25,89,227195,0.429,0.453,0,-7.746,1,0.0459,0.554,0.000002,0.102,0.155,77.639
+2,Fast Car,Luke Combs,,Gettin' Old,2023-03-24,84,265493,0.712,0.603,8,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994
+3,World on Fire,Nate Smith,,NATE SMITH (DELUXE),2023-04-28,76,189986,0.461,0.887,11,-4.871,0,0.0429,0.000219,0,0.104,0.411,95.964
+4,Last Night,Morgan Wallen,,3 Songs At A Time Sampler,2023-03-03,83,163854,0.492,0.673,6,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812
+5,I Can Feel It,Kane Brown,,I Can Feel It,2023-09-21,68,163600,0.529,0.866,3,-5.816,0,0.0452,0.00281,0.00526,0.0287,0.55,116.004
+6,Memory Lane,Old Dominion,,Memory Lane,2023-10-06,71,172480,0.647,0.774,6,-5.136,1,0.0362,0.0185,0.0000147,0.0849,0.376,118.968
+7,Lipstick On A Beer Can,Cody Bradley,,Lipstick On A Beer Can,2024-03-22,46,207360,0.603,0.688,7,-6.659,1,0.0298,0.0447,0,0.137,0.295,105.013
+8,Looking for You,Chris Young,,Looking for You + All Dogs Go to Heaven,2023-01-13,62,179973,0.53,0.874,7,-3.594,1,0.043,0.0485,0,0.153,0.537,81.034
+9,Mamaw's House,Thomas Rhett,Morgan Wallen,Mamaw's House,2023-09-28,68,187269,0.559,0.704,2,-7.686,1,0.0338,0.0177,0,0.0821,0.422,89.985
+10,Need A Favor,Jelly Roll,,Need A Favor,2023-06-02,77,197400,0.502,0.771,6,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978
+11,Religiously,Bailey Zimmerman,,Religiously,2023-01-11,80,179294,0.431,0.837,9,-5.067,1,0.0432,0.259,0,0.0879,0.648,170.041
+12,Heart For A Heart,Maya Lane,,Heart For A Heart,2024-04-18,44,194914,0.558,0.449,0,-9.874,0,0.0277,0.518,0,0.0853,0.385,111.478
+13,The Painter,Cody Johnson,,The Painter,2023-11-03,75,211413,0.512,0.709,2,-5.767,1,0.0327,0.0423,0.0000043,0.107,0.261,97.971
+14,Heartbroken (feat. Jessie Murph & Polo G),Diplo,Jessie Murph & Polo G,Heartbroken (feat. Jessie Murph & Polo G),2023-07-28,69,204325,0.67,0.589,2,-5.693,1,0.0873,0.379,0,0.0942,0.628,146.978
+15,TRUCK BED,HARDY,,the mockingbird & THE CROW,2023-01-20,79,167534,0.663,0.77,0,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058
+16,Ain’t That Some,Morgan Wallen,,One Thing At A Time,2023-03-03,79,158003,0.64,0.811,6,-5.834,0,0.0279,0.00154,0.00000934,0.363,0.686,121.089
+17,On a Backroad,Richie Allen,,On a Backroad,2024-04-12,45,204347,0.539,0.57,8,-9.125,0,0.034,0.122,0,0.0985,0.341,138.104
+18,We Ride,Bryan Martin,,Poets & Old Souls,2023-03-31,80,188482,0.62,0.706,3,-4.176,1,0.0251,0.0755,0.00000778,0.185,0.591,81.989
+19,White Horse,Chris Stapleton,,White Horse,2023-11-10,76,267893,0.353,0.77,1,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225
+20,Closure,Kaleb Sanders,,Closure,2024-04-19,50,175867,0.686,0.575,6,-5.605,1,0.0241,0.802,0,0.108,0.658,104.042
+21,Different 'Round Here,Riley Green,Luke Combs,Different 'Round Here,2023-10-13,71,176000,0.454,0.72,1,-5.999,1,0.0319,8.63E-05,0.000131,0.128,0.313,141.93
+22,This Town's Been Too Good To Us,Dylan Scott,,This Town's Been Too Good To Us,2024-03-29,71,191626,0.696,0.555,11,-7.035,1,0.0353,0.0603,0,0.175,0.577,104.989
+23,Nobody's Nobody,Brothers Osborne,,Nobody's Nobody,2023-09-15,59,189066,0.577,0.746,5,-6.252,1,0.0259,0.0414,0.0431,0.119,0.601,94.98
+24,Burn It Down,Parker McCollum,,Never Enough,2023-05-12,67,233869,0.461,0.718,2,-5.627,1,0.0666,0.139,0.0000166,0.0968,0.334,162.187
+25,Howdy,Clayton Johnson,,Howdy,2022-12-02,48,144426,0.583,0.812,0,-4.964,1,0.0358,0.117,0,0.0883,0.679,97.003
+26,5 Foot 9,Tyler Hubbard,,5 Foot 9,2023-01-27,68,189773,0.605,0.79,5,-5.576,1,0.0454,0.16,0,0.126,0.507,105.997
+27,Save Me (with Lainey Wilson),Jelly Roll,Lainey Wilson,Whitsitt Chapel,2023-06-02,74,237493,0.564,0.612,0,-5.018,1,0.0248,0.382,0,0.11,0.146,83.03
+28,Angels (Don’t Always Have Wings),Thomas Rhett,,Angels (Don’t Always Have Wings),2023-01-20,54,200426,0.527,0.598,1,-4.257,1,0.0283,0.063,0.000153,0.0913,0.23,66.041
+29,Into the Storm,Jake Simon,,Into the Storm,2024-04-12,41,192158,0.581,0.735,6,-5.098,1,0.0333,0.461,0.0000308,0.115,0.307,122.874
+30,Rock and A Hard Place,Bailey Zimmerman,,Rock and A Hard Place,2023-01-11,78,207540,0.582,0.568,1,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991
+31,Dawns (feat. Maggie Rogers),Zach Bryan,Maggie Rogers,Dawns (feat. Maggie Rogers),2023-01-27,78,290892,0.447,0.441,0,-7.658,1,0.0456,0.874,0.0000436,0.188,0.286,122.811
+32,Dancing Slow,Sage Castleberry,,Dancing Slow,2024-04-12,40,221887,0.498,0.695,6,-5.831,1,0.0333,0.00995,0,0.143,0.275,131.969
+33,Something's Gonna Kill Me,Corey Kent,,Blacktop,2023-06-02,65,183680,0.659,0.823,4,-5.77,0,0.0415,0.0174,0.00000182,0.11,0.405,112.931
+34,Where the Wild Things Are,Luke Combs,,Gettin' Old,2023-03-24,83,239533,0.708,0.731,3,-4.872,1,0.0345,0.0189,0.00000447,0.129,0.379,116.975
+35,Thinkin’ Bout Me,Morgan Wallen,,One Thing At A Time,2023-03-03,85,177387,0.659,0.789,3,-5.723,0,0.0293,0.487,0,0.115,0.468,139.982
+36,Nobody's Business,David Payne,,Nobody's Business,2024-04-12,40,185576,0.625,0.55,0,-6.89,1,0.0349,0.183,0,0.187,0.364,139.969
+37,Bury Me in Georgia - Single Edit,Kane Brown,,Bury Me in Georgia,2023-03-31,54,170682,0.391,0.816,2,-5.746,0,0.066,0.0169,0,0.0893,0.457,160.001
+38,Next Thing You Know,Jordan Davis,,Bluebird Days,2023-02-17,77,175226,0.549,0.608,5,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534
+39,Outskirts,Sam Hunt,,Outskirts,2023-03-10,70,182706,0.552,0.774,10,-3.685,1,0.0401,0.215,0,0.126,0.194,75.07
+40,Save Me The Trouble,Dan + Shay,,"Save Me The Trouble, Heartbreak On The Map, Bigger Houses",2023-07-14,55,200346,0.444,0.629,9,-4.435,1,0.0318,0.00544,0,0.271,0.376,134.931
+41,Looking Back Now,First Time Flyers,,Looking Back Now,2024-04-12,40,224400,0.585,0.819,11,-4.811,0,0.0408,0.145,0,0.106,0.451,95.963
+42,What If I Don't,Shaylen,,What If I Don't,2022-07-22,56,201544,0.524,0.806,4,-5.785,1,0.0522,0.0521,0,0.189,0.568,143.923
+43,goodbye looks good on you (feat. Mitchell Tenpenny),Alana Springsteen,Mitchell Tenpenny,TWENTY SOMETHING: Messing It Up,2023-08-18,64,171080,0.667,0.671,1,-4.2,0,0.0496,0.413,0,0.0809,0.695,83.962
+44,Out Of That Truck,Carrie Underwood,,Out Of That Truck,2023-09-22,61,177400,0.563,0.755,5,-4.504,1,0.0253,0.0134,0,0.399,0.811,92.988
+45,Bigger in Texas,Bri Fletcher,,Bigger in Texas,2024-04-19,39,207824,0.495,0.565,1,-5.943,0,0.0342,0.212,0,0.251,0.376,147.805
+46,I'm Not Pretty,Megan Moroney,,Lucky,2023-05-05,72,181066,0.573,0.795,10,-5.561,1,0.0558,0.129,0.0000178,0.186,0.705,128.101
+47,Country Boy's Dream Girl,Ella Langley,,Excuse The Mess,2023-05-19,66,185026,0.591,0.787,8,-4.56,1,0.0407,0.249,0,0.11,0.436,139.997
+48,The Kind of Love We Make,Luke Combs,,The Kind of Love We Make,2022-06-24,80,224426,0.608,0.745,1,-4.13,1,0.0277,0.0226,0.00000647,0.0942,0.464,102.025
+49,Love You Again,Chase Matthew,,Love You Again,2023-06-09,72,173636,0.564,0.823,10,-5.319,0,0.0297,0.214,0,0.432,0.472,132.113
+50,Call It,Gulf Stream Riders,,Call It,2024-04-12,39,242500,0.591,0.487,4,-10.133,0,0.0269,0.174,0,0.0978,0.322,131.915
+51,She Had Me At Heads Carolina,Cole Swindell,,Stereotype,2022-04-08,73,206106,0.607,0.912,8,-3.449,1,0.0611,0.124,0,0.332,0.722,134.944
+52,God Gave Me A Girl,Russell Dickerson,,Russell Dickerson,2022-11-04,57,187226,0.518,0.845,7,-5.051,1,0.0647,0.249,0,0.0764,0.37,142.133
+53,Girl In Mine,Parmalee,,Girl In Mine,2023-09-22,63,154733,0.464,0.683,8,-4.238,1,0.0439,0.164,0,0.106,0.887,201.972
+54,Whiskey On You,Nate Smith,,Whiskey On You,2023-04-28,74,183786,0.473,0.751,8,-5.196,1,0.0318,9.91E-05,0.0181,0.118,0.569,110.025
+55,Gulf Wind,Clayton Mann,,Gulf Wind,2024-04-19,39,209610,0.539,0.849,0,-4.332,0,0.0493,0.0531,0,0.083,0.528,118.007
+56,Giving Up On That,Dalton Dover,,Giving Up On That,2023-02-17,50,211533,0.484,0.864,3,-4.593,1,0.0467,0.0324,0,0.0926,0.425,137.989
+57,Thinking 'Bout You (feat. MacKenzie Porter),Dustin Lynch,MacKenzie Porter,Blue In The Sky,2022-02-11,72,171626,0.364,0.745,8,-3.293,1,0.0596,0.146,0,0.0887,0.785,203.912
+58,5 Leaf Clover,Luke Combs,,5 Leaf Clover,2023-03-24,66,211053,0.423,0.58,1,-4.959,1,0.0243,0.0554,0.00000292,0.168,0.336,82.755
+59,I Wrote The Book,Morgan Wallen,,3 Songs At A Time Sampler,2023-03-03,68,181766,0.686,0.833,2,-3.768,1,0.0381,0.0619,0.0000376,0.0657,0.833,143.965
+60,Mountain With A View,Kelsea Ballerini,,Rolling Up the Welcome Mat,2023-02-14,54,177920,0.436,0.434,10,-7.153,1,0.0502,0.679,0,0.419,0.447,117.836
+61,"You, Me, And Whiskey",Justin Moore,Priscilla Block,"You, Me, And Whiskey",2023-05-05,64,187941,0.555,0.88,0,-4.351,0,0.0535,0.0803,0,0.174,0.422,144.076
+62,Love You Anyway,Luke Combs,,Love You Anyway,2023-03-24,71,229626,0.532,0.489,4,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807
+63,Tennessee Orange,Megan Moroney,,Tennessee Orange,2023-05-05,77,223119,0.38,0.488,9,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031
+64,Get to Gettin’ Gone,Bailey Zimmerman,,Get to Gettin’ Gone,2023-01-11,64,182465,0.584,0.68,6,-6.781,1,0.0351,0.285,0,0.0901,0.55,146.093
+65,Angels in Disguise,Truck Pierce,,Angels in Disguise,2023-08-04,37,273893,0.493,0.718,9,-6.56,1,0.0327,0.221,0,0.101,0.42,145.961
+66,Thank God,Kane Brown,Katelyn Brown,Different Man,2022-09-09,71,174560,0.738,0.455,3,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945
+67,You Proof,Morgan Wallen,,You Proof,2023-03-03,83,157477,0.728,0.818,9,-5.068,1,0.0329,0.323,0,0.582,0.681,119.706
+68,Every Night Every Morning,Maddie & Tae,,Every Night Every Morning,2022-09-23,55,198000,0.614,0.778,7,-4.58,1,0.0296,0.0103,0,0.169,0.62,123.914
+69,All I Need Is You,Chris Janson,,The Outlaw Side Of Me,2023-06-16,53,162344,0.606,0.757,1,-6.206,1,0.0302,0.0157,0.000205,0.343,0.588,103.051
+70,Brown Eyes Baby,Keith Urban,,Brown Eyes Baby,2022-07-08,57,224333,0.565,0.823,8,-4.973,1,0.0328,0.232,0.00000389,0.0715,0.522,141.972
+71,One Thing At A Time,Morgan Wallen,,One Thing At A Time (Sampler),2023-03-03,86,181621,0.621,0.779,8,-3.777,1,0.0361,0.216,0.00000862,0.165,0.399,172.037
+72,Handle On You,Parker McCollum,,Handle On You,2023-05-12,67,219967,0.591,0.928,6,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025
+73,Glory Days,Gabby Barrett,,Glory Days,2024-02-02,56,162880,0.646,0.776,7,-5.221,1,0.0514,0.00686,0,0.118,0.266,103.922
+74,Water Under The Bridge,Sam Hunt,,Water Under The Bridge,2022-06-23,57,169760,0.635,0.866,5,-2.695,1,0.0473,0.0697,0,0.0955,0.853,133.889
+75,Outrunnin' Your Memory,Luke Combs,Miranda Lambert,Growin' Up,2022-06-24,62,254746,0.601,0.836,1,-3.42,0,0.0342,0.0974,0,0.106,0.338,127.934
+76,Last Night Lonely,Jon Pardi,,Last Night Lonely,2022-09-02,69,182161,0.652,0.813,6,-2.842,1,0.0268,0.00544,0,0.101,0.851,102.987
+77,Drunk on You,burke.,,Drunk on You,2024-04-19,37,203756,0.446,0.852,5,-6.685,1,0.0601,0.00152,0,0.19,0.648,158.149
+78,Tennessee Tuff,Terry Glen Adams,,Tennessee Tuff,2024-03-22,36,209555,0.693,0.768,8,-7.201,1,0.0283,0.148,0.0000103,0.336,0.763,124.015
+79,If He Wanted To He Would,Kylie Morgan,,P.S.,2022-07-01,68,174173,0.655,0.617,0,-4.716,1,0.026,0.0998,0,0.211,0.734,90.015
+80,Like I Love Country Music,Kane Brown,,Like I Love Country Music,2022-05-06,62,234340,0.542,0.82,8,-6.073,1,0.0432,0.000682,0.000136,0.0561,0.702,124.85
+81,Dancin’ In The Country,Tyler Hubbard,,Dancin' In The Country,2023-01-27,72,179640,0.657,0.871,7,-4.614,1,0.0675,0.0031,0,0.102,0.532,114.974
+82,What My World Spins Around,Jordan Davis,,What My World Spins Around,2023-02-17,74,186800,0.686,0.733,2,-6.483,1,0.0401,0.111,0,0.153,0.7,124.882
+83,Miles Run Out,Zebb Rogers,,Miles Run Out,2024-04-12,37,195846,0.648,0.632,8,-7.619,1,0.0441,0.158,0,0.11,0.936,151.988
+84,Half Of Me,Thomas Rhett,Riley Green,Where We Started,2022-04-01,67,183026,0.575,0.842,7,-5.058,1,0.0348,0.00683,0,0.279,0.665,111.995
+85,Backroad,Sul Ross Band,,Good Gone Bad,2015-06-01,36,228266,0.471,0.807,9,-5.026,0,0.0349,0.159,0,0.125,0.548,159.964
+86,Fall In Love,Bailey Zimmerman,,Fall In Love,2023-01-11,75,232058,0.524,0.643,9,-6.055,1,0.0297,0.451,0,0.221,0.397,135.962
+87,Don't Think Jesus,Morgan Wallen,,Don't Think Jesus,2022-04-15,58,226975,0.578,0.431,2,-7.034,1,0.0269,0.469,0,0.137,0.21,116.979
+88,No Hard Feelings,Old Dominion,,"Time, Tequila & Therapy",2021-10-08,57,191360,0.636,0.866,4,-5.796,1,0.0553,0.243,0.00000542,0.371,0.963,85.004
+89,23,Sam Hunt,,23,2021-09-09,64,179720,0.641,0.78,3,-5.138,1,0.0852,0.0206,0,0.143,0.693,98.004
+90,Dancin' In The Moonlight,Chris Lane,Lauren Alaina,Dancin' In The Moonlight,2022-05-20,54,199000,0.59,0.828,8,-4.861,0,0.0331,0.0204,0,0.126,0.559,121.996
+91,Broadway Girls (feat. Morgan Wallen),Lil Durk,Morgan Wallen,Broadway Girls (feat. Morgan Wallen),2022-03-10,78,185600,0.659,0.745,10,-3.599,1,0.0347,0.0417,0,0.296,0.54,74.967
+92,Wild as Her,Corey Kent,,Wild as Her,2023-06-02,70,201066,0.5,0.748,0,-5.927,1,0.0364,0.00291,0,0.112,0.448,148.009
+93,What He Didn't Do,Carly Pearce,,29: Written In Stone,2021-09-17,67,191226,0.628,0.632,9,-5.932,1,0.0325,0.257,0,0.288,0.559,137.854
+94,Thought You Should Know,Morgan Wallen,,Thought You Should Know,2023-03-03,76,215571,0.537,0.701,6,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995
+95,Buy Dirt,Jordan Davis,Luke Bryan,Buy Dirt,2021-05-21,80,167480,0.586,0.559,4,-6.725,1,0.05,0.639,0,0.0872,0.437,177.945
+96,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Taylor Swift,Chris Stapleton,Red (Taylor's Version),2021-11-12,70,285106,0.391,0.715,0,-4.516,1,0.0495,0.167,0,0.183,0.473,149.654
+97,Flower Shops,ERNEST,Morgan Wallen,Flower Shops,2022-03-11,72,214405,0.544,0.459,7,-5.908,1,0.0266,0.119,0,0.0831,0.231,128.062
+98,Wilder Days,Morgan Wade,,Reckless,2021-03-19,61,251293,0.502,0.662,9,-4.041,1,0.0293,0.00322,0.00274,0.119,0.4,110.917
+99,Til You Can't,Cody Johnson,,Human The Double Album,2021-10-08,73,224213,0.501,0.815,1,-4.865,1,0.0436,0.0513,0,0.106,0.46,160.087
+100,If I Didn't Love You,Jason Aldean,Carrie Underwood,If I Didn't Love You,2021-11-12,66,212893,0.452,0.683,1,-4.829,1,0.0337,0.168,0,0.102,0.445,183.937
